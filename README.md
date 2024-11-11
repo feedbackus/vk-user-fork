@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ```
 6. Запустить скрипт, передав необходимые параметры:
 ```bash
-python vk_user_info.py <TOKEN> <ID> --output <FILENAME>
+python main.py <TOKEN> <ID> --output <FILENAME>
 ```
 
 **Параметры:**
